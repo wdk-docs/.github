@@ -1,6 +1,3 @@
-## Hi there 👋
+## 文档系统 👋
 
-https://buttons.github.io/
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/gatsbyjs/gatsby" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark_high_contrast;" data-icon="octicon-star" data-show-count="true" aria-label="Star gatsbyjs/gatsby on GitHub">Star</a>
+<iframe src="https://ghbtns.com/github-btn.html?user=gatsbyjs&repo=gatsby&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
