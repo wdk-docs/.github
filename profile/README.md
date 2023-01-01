@@ -10,17 +10,17 @@
 | [Gatsby][gatsby]         | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]         | 最快的无头网络前端。                                          |
 | [Jekyll][jekyll]         | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]         | Ruby 中支持博客的静态站点生成器                               |
 | [Hexo][hexo]             | JavaScript | :heavy_check_mark: | ![Hexo][hexo-stars]             | A fast, simple & powerful blog framework, powered by Node.js. |
+| [VuePress][vuepress]     | Vue        | :heavy_check_mark: | ![VuePress][vuepress-stars]     | Minimalistic Vue-powered static site generator                |
 | [Eleventy (11ty)][11ty]  | Node.Js    | :heavy_check_mark: | ![Eleventy][11ty-stars]         | 一个更简单的静态站点生成器。                                  |
 | [Pelican][pelican]       | Python     | :heavy_check_mark: | ![Pelican][pelican-stars]       | 支持 Markdown 和 reST 语法的静态站点生成器。                  |
 | [Gridsome][gridsome]     | Vue        | :heavy_check_mark: | ![Gridsome][gridsome-stars]     | The Jamstack framework for Vue.js                             |
-| [Nikola][nikola]         | Python     | :heavy_check_mark: | ![Nikola][nikola-stars]         | 一个静态网站和博客生成器                                      |
 | [Metalsmith][metalsmith] | Javascript | :heavy_check_mark: | ![Metalsmith][metalsmith-stars] | An extremely simple, pluggable static site generator.         |
-| [Publii][publii]         | Vue        | :heavy_check_mark: | ![Publii][publii-stars]         | 一款基于桌面的 CMS。                                          |
 | [Middleman][middleman]   | Ruby       | :heavy_check_mark: | ![Middleman][middleman-stars]   | Hand-crafted frontend development                             |
-| [Statiq Web][statiq]     | C#         | :heavy_check_mark: | ![Statiq][statiq-stars]         | 一个用.NET 编写的灵活的静态站点生成器。                       |
-| [VuePress][vuepress]     | Vue        | :heavy_check_mark: | ![VuePress][vuepress-stars]     | Minimalistic Vue-powered static site generator                |
-| [Sculpin][sculpin]       | PHP        | :heavy_check_mark: | ![Sculpin][sculpin-stars]       | Sculpin — Static Site Generator                               |
+| [Publii][publii]         | Vue        | :heavy_check_mark: | ![Publii][publii-stars]         | 一款基于桌面的 CMS。                                          |
 | [Harp][harp]             | Javascript | :heavy_check_mark: | ![Harp][harp-stars]             | Static Web Server/Generator/Bundler                           |
+| [Nikola][nikola]         | Python     | :heavy_check_mark: | ![Nikola][nikola-stars]         | 一个静态网站和博客生成器                                      |
+| [Statiq Web][statiq]     | C#         | :heavy_check_mark: | ![Statiq][statiq-stars]         | 一个用.NET 编写的灵活的静态站点生成器。                       |
+| [Sculpin][sculpin]       | PHP        | :heavy_check_mark: | ![Sculpin][sculpin-stars]       | Sculpin — Static Site Generator                               |
 
 [hugo]: https://gohugo.io/
 [hugo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
@@ -52,4 +52,5 @@
 [harp-stars]: https://img.shields.io/github/stars/sintaxi/harp?style=social
 [metalsmith]: https://metalsmith.io/
 [metalsmith-stars]: https://img.shields.io/github/stars/metalsmith/metalsmith?style=social
+
 
