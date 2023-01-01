@@ -1,5 +1,6 @@
 | 名字                                 | 语言/框架  | MD                 | Stars                                     | 描述                                                   |
 | ------------------------------------ | ---------- | ------------------ | ----------------------------------------- | ------------------------------------------------------ |
+| [Next.js][next.js]                   | React      | :heavy_check_mark: | ![Hugo][next.js-stars]                    | React 框架                                             |
 | [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
 | ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![Hugo][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
 | [Gatsby][gatsby]                     | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]                   | 最快的无头网络前端。                                   |
@@ -26,6 +27,8 @@
 | [Statiq Web][statiq]                 | C#         | :heavy_check_mark: | ![Statiq][statiq-stars]                   | 一个用.NET 编写的灵活的静态站点生成器。                |
 | [Sculpin][sculpin]                   | PHP        | :heavy_check_mark: | ![Sculpin][sculpin-stars]                 | 静态站点生成器                                         |
 
+[next.js]: https://nextjs.org
+[next.js-stars]: https://img.shields.io/github/stars/vercel/next.js?style=social
 [hugo]: https://gohugo.io
 [hugo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
 [docsy]: https://docsy.dev
