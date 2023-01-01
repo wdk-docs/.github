@@ -10,7 +10,7 @@
 
 | 名字                                 | 语言/框架  | MD                 | Stars                                     | 描述                                                   |
 | ------------------------------------ | ---------- | ------------------ | ----------------------------------------- | ------------------------------------------------------ |
-| [Hugo][hugo]                         | go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
+| [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
 | [Gatsby][gatsby]                     | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]                   | 最快的无头网络前端。                                   |
 | [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
