@@ -7,6 +7,7 @@
 | [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
 | [Hexo][hexo]                         | Node.js    | :heavy_check_mark: | ![Hexo][hexo-stars]                       | 一个快速，简单和强大的博客框架。                       |
+| [SLATE][slate]                       | Ruby       | :heavy_check_mark: | ![SLATE][slate-stars]                     | 美丽的 API 的精美静态文档                              |
 | [GitBook][gitbook]                   | TypeScript | :heavy_check_mark: | ![GitBook][gitbook-stars]                 | 📝 使用 Git 和 Markdown 的现代文档格式和工具链         |
 | [Astro][astro]                       | TypeScript | :heavy_check_mark: | ![Astro][astro-stars]                     | 下一代岛屿架构构建更快的网站 🏝✨                       |
 | [docsify][docsify]                   | JavaScript | :heavy_check_mark: | ![docsify][docsify-stars]                 | 🃏 一个神奇的文档网站生成器。                          |
@@ -20,6 +21,7 @@
 | [Gridsome][gridsome]                 | Vue        | :heavy_check_mark: | ![Gridsome][gridsome-stars]               | Vue.js 的 Jamstack 框架                                |
 | [Metalsmith][metalsmith]             | Javascript | :heavy_check_mark: | ![Metalsmith][metalsmith-stars]           | 一个极其简单的、可插拔的静态站点生成器。               |
 | [Middleman][middleman]               | Ruby       | :heavy_check_mark: | ![Middleman][middleman-stars]             | 手工制作前端开发                                       |
+| [VitePress][vite]                    | Vue        | :heavy_check_mark: | ![VitePress][vite-stars]                  | Vite & Vue 动力静态站点生成器。                        |
 | [Publii][publii]                     | Vue        | :heavy_check_mark: | ![Publii][publii-stars]                   | 一款基于桌面的 CMS。                                   |
 | [Sphinx][sphinx]                     | Python     | :heavy_check_mark: | ![Sphinx][sphinx-stars]                   | Sphinx 文档生成器                                      |
 | [Harp][harp]                         | Javascript | :heavy_check_mark: | ![Harp][harp-stars]                       | 静态 Web 服务器/生成器/捆绑器                          |
@@ -82,6 +84,10 @@
 [gitbook-stars]: https://img.shields.io/github/stars/GitbookIO/gitbook?style=social
 [zola]: https://www.getzola.org
 [zola-stars]: https://img.shields.io/github/stars/getzola/zola?style=social
+[vite]: https://vitepress.vuejs.org
+[vite-stars]: https://img.shields.io/github/stars/vuejs/vitepress?style=social
+[slate]: https://slatedocs.github.io/slate
+[slate-stars]: https://img.shields.io/github/stars/slatedocs/slate?style=social
 
 ## 工具
 
