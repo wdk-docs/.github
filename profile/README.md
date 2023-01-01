@@ -15,6 +15,7 @@
 | ->[mkdocs-material][mkdocs-material] | Python     | :heavy_check_mark: | ![mkdocs-material][mkdocs-material-stars] | 简单工作的文档                                         |
 | [Eleventy (11ty)][11ty]              | Node.Js    | :heavy_check_mark: | ![Eleventy][11ty-stars]                   | 一个更简单的静态站点生成器。                           |
 | [Pelican][pelican]                   | Python     | :heavy_check_mark: | ![Pelican][pelican-stars]                 | 支持 Markdown 和 reST 语法的静态站点生成器。           |
+| [Nuxt][nuxt]                         | Vue        | :heavy_check_mark: | ![Nuxt][nuxt-stars]                       | 直观的 Web 框架，基于 Vue 3。                          |
 | [zola][zola]                         | Rust       | :heavy_check_mark: | ![zola][zola-stars]                       | 一个快速的静态网站生成器在一个单一的二进制与一切内置。 |
 | [Gridsome][gridsome]                 | Vue        | :heavy_check_mark: | ![Gridsome][gridsome-stars]               | Vue.js 的 Jamstack 框架                                |
 | [Metalsmith][metalsmith]             | Javascript | :heavy_check_mark: | ![Metalsmith][metalsmith-stars]           | 一个极其简单的、可插拔的静态站点生成器。               |
@@ -29,6 +30,8 @@
 
 [next.js]: https://nextjs.org
 [next.js-stars]: https://img.shields.io/github/stars/vercel/next.js?style=social
+[nuxt]: https://nuxt.com
+[nuxt-stars]: https://img.shields.io/github/stars/nuxt/framework?style=social
 [hugo]: https://gohugo.io
 [hugo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
 [docsy]: https://docsy.dev
