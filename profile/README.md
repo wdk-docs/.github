@@ -11,6 +11,7 @@
 | 名字                                 | 语言/框架  | MD                 | Stars                                     | 描述                                                   |
 | ------------------------------------ | ---------- | ------------------ | ----------------------------------------- | ------------------------------------------------------ |
 | [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
+| ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![Hugo][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
 | [Gatsby][gatsby]                     | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]                   | 最快的无头网络前端。                                   |
 | [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
@@ -37,6 +38,8 @@
 
 [hugo]: https://gohugo.io
 [hugo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[docsy]: https://docsy.dev
+[docsy-stars]: https://img.shields.io/github/stars/google/docsy?style=social
 [pelican]: https://getpelican.com
 [pelican-stars]: https://img.shields.io/github/stars/getpelican/pelican?style=social
 [11ty]: https://www.11ty.dev
