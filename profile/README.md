@@ -4,9 +4,10 @@
 
 ## 开源文档系统
 
+
 | 名字            | MD  | 下载          | 描述 |
 | --------------- | --- | ------------- | ---- |
-| Hugo            |     | ![Hugo][hugo] |      |
+| Hugo            | [x] | ![Hugo][hugo] |      |
 | Pelican         |     |               |      |
 | Eleventy (11ty) |     |               |      |
 | Gatsby          |     |               |      |
@@ -23,3 +24,4 @@
 | Metalsmith      |     |               |      |
 
 [hugo]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+
