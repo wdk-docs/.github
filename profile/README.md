@@ -4,38 +4,41 @@
 
 ## 开源文档系统
 
+| 名字                     | 语言   | MD                 | Stars                     | 描述                                         |
+| ------------------------ | ------ | ------------------ | ------------------------- | -------------------------------------------- |
+| [Hugo][hugo]             | go     | :heavy_check_mark: | ![Hugo][hugo-stars]       | 世界上最快的网站建设框架。                   |
+| [Pelican][pelican]       | Python | :heavy_check_mark: | ![Pelican][pelican-stars] | 支持 Markdown 和 reST 语法的静态站点生成器。 |
+| [Eleventy (11ty)][11ty]  |        | :x:                | ![][11ty-stars]           | 一个更简单的静态站点生成器。                 |
+| [Gatsby][gatsby]         |        | :x:                | ![][gatsby-stars]         |                                              |
+| [Nikola][nikola]         |        | :x:                | ![][gridsome-stars]       |                                              |
+| [Jekyll][jekyll]         |        | :x:                | ![][harp-stars]           |                                              |
+| [Publii][publii]         |        | :x:                | ![][hexo-stars]           |                                              |
+| [Statiq Web][statiq]     |        | :x:                | ![][jekyll-stars]         |                                              |
+| [Gridsome][gridsome]     |        | :x:                | ![][metalsmith-stars]     |                                              |
+| [VuePress][vuepress]     |        | :x:                | ![][middleman-stars]      |                                              |
+| [Middleman][middleman]   |        | :x:                | ![][nikola-stars]         |                                              |
+| [Hexo][hexo]             |        | :x:                | ![][publii-stars]         |                                              |
+| [Sculpin][sculpin]       |        | :x:                | ![][sculpin-stars]        |                                              |
+| [Harp][harp]             |        | :x:                | ![][statiq-stars]         |                                              |
+| [Metalsmith][metalsmith] |        | :x:                | ![][vuepress-stars]       |                                              |
 
-| 名字            | 语言 | MD                 | Stars         | 描述 |
-| --------------- | ---- | ------------------ | ------------- | ---- |
-| Hugo            | go   | :heavy_check_mark: | ![Hugo][hugo] |      |
-| Pelican         |      | :x:                |               |      |
-| Eleventy (11ty) |      | :x:                |               |      |
-| Gatsby          |      | :x:                |               |      |
-| Nikola          |      | :x:                |               |      |
-| Jekyll          |      | :x:                |               |      |
-| Publii          |      | :x:                |               |      |
-| Statiq Web      |      | :x:                |               |      |
-| Gridsome        |      | :x:                |               |      |
-| VuePress        |      | :x:                |               |      |
-| Middleman       |      | :x:                |               |      |
-| Hexo            |      | :x:                |               |      |
-| Sculpin         |      | :x:                |               |      |
-| Harp            |      | :x:                |               |      |
-| Metalsmith      |      | :x:                |               |      |
-
-[hugo]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[11ty]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[gatsby]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[nikola]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[jekyll]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[publii]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[statiq]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[gridsome]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[vuepress]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[middleman]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[hexo]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[sculpin]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[harp]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-[metalsmith]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
-
+[hugo]: https://gohugo.io/
+[hugo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[pelican]: https://getpelican.com/
+[pelican-stars]: https://img.shields.io/github/stars/getpelican/pelican?style=social
+[11ty]: https://www.11ty.dev/
+[11ty-stars]: https://img.shields.io/github/stars/11ty/eleventy?style=social
+[gatsby]: https://www.gatsbyjs.com/
+[gatsby-stars]: https://img.shields.io/github/stars/gatsbyjs/gatsby?style=social
+[nikola-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[jekyll-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[publii-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[statiq-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[gridsome-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[vuepress-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[middleman-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[hexo-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[sculpin-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[harp-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
+[metalsmith-stars]: https://img.shields.io/github/stars/gohugoio/hugo?style=social
 
