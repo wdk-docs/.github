@@ -8,8 +8,9 @@
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
 | [Hexo][hexo]                         | Node.js    | :heavy_check_mark: | ![Hexo][hexo-stars]                       | 一个快速，简单和强大的博客框架。                       |
 | [SLATE][slate]                       | Ruby       | :heavy_check_mark: | ![SLATE][slate-stars]                     | 美丽的 API 的精美静态文档                              |
-| [GitBook][gitbook]                   | TypeScript | :heavy_check_mark: | ![GitBook][gitbook-stars]                 | 📝 使用 Git 和 Markdown 的现代文档格式和工具链         |
 | [Astro][astro]                       | TypeScript | :heavy_check_mark: | ![Astro][astro-stars]                     | 下一代岛屿架构构建更快的网站 🏝✨                       |
+| [GitBook][gitbook]                   | TypeScript | :heavy_check_mark: | ![GitBook][gitbook-stars]                 | 📝 使用 Git 和 Markdown 的现代文档格式和工具链         |
+
 | [docsify][docsify]                   | JavaScript | :heavy_check_mark: | ![docsify][docsify-stars]                 | 🃏 一个神奇的文档网站生成器。                          |
 | [VuePress][vuepress]                 | Vue        | :heavy_check_mark: | ![VuePress][vuepress-stars]               | 简约的 vue 驱动的静态站点生成器                        |
 | [mkdocs][mkdocs]                     | Python     | :heavy_check_mark: | ![mkdocs][mkdocs-stars]                   | Markdown 的项目文档。                                  |
@@ -97,6 +98,6 @@
 
 ## 创建文档
 
-- [mkdocs](https://github.com/wdk-docs/mkdocs-docs)
-- [mkdocs-material](https://github.com/wdk-docs/mkdocs-material-docs)
-- [pymdown-extensions](https://github.com/wdk-docs/pymdown-extensions-docs)
+- [mkdocs](https://wdk-docs.github.io/mkdocs-docs/)
+- [mkdocs-material](https://wdk-docs.github.io/mkdocs-material-docs/)
+- [pymdown-extensions](https://wdk-docs.github.io/pymdown-extensions-docs/)
