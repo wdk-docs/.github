@@ -19,9 +19,9 @@
 | [Nuxt][nuxt]                         | Vue        | :heavy_check_mark: | ![Nuxt][nuxt-stars]                       | 直观的 Web 框架，基于 Vue 3。                          |
 | [zola][zola]                         | Rust       | :heavy_check_mark: | ![zola][zola-stars]                       | 一个快速的静态网站生成器在一个单一的二进制与一切内置。 |
 | [Gridsome][gridsome]                 | Vue        | :heavy_check_mark: | ![Gridsome][gridsome-stars]               | Vue.js 的 Jamstack 框架                                |
+| [VitePress][vite]                    | Vue        | :heavy_check_mark: | ![VitePress][vite-stars]                  | Vite & Vue 动力静态站点生成器。                        |
 | [Metalsmith][metalsmith]             | Javascript | :heavy_check_mark: | ![Metalsmith][metalsmith-stars]           | 一个极其简单的、可插拔的静态站点生成器。               |
 | [Middleman][middleman]               | Ruby       | :heavy_check_mark: | ![Middleman][middleman-stars]             | 手工制作前端开发                                       |
-| [VitePress][vite]                    | Vue        | :heavy_check_mark: | ![VitePress][vite-stars]                  | Vite & Vue 动力静态站点生成器。                        |
 | [Publii][publii]                     | Vue        | :heavy_check_mark: | ![Publii][publii-stars]                   | 一款基于桌面的 CMS。                                   |
 | [Sphinx][sphinx]                     | Python     | :heavy_check_mark: | ![Sphinx][sphinx-stars]                   | Sphinx 文档生成器                                      |
 | [Harp][harp]                         | Javascript | :heavy_check_mark: | ![Harp][harp-stars]                       | 静态 Web 服务器/生成器/捆绑器                          |
