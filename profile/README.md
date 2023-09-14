@@ -4,8 +4,8 @@
 | [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
 | ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![Hugo][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
 | [Gatsby][gatsby]                     | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]                   | 最快的无头网络前端。                                   |
-| [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
+| [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
 | [Hexo][hexo]                         | Node.js    | :heavy_check_mark: | ![Hexo][hexo-stars]                       | 一个快速，简单和强大的博客框架。                       |
 | [SLATE][slate]                       | Ruby       | :heavy_check_mark: | ![SLATE][slate-stars]                     | 美丽的 API 的精美静态文档                              |
 | [Astro][astro]                       | TypeScript | :heavy_check_mark: | ![Astro][astro-stars]                     | 下一代岛屿架构构建更快的网站 🏝✨                       |
