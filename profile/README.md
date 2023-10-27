@@ -1,6 +1,6 @@
 | 名字                                 | 语言/框架  | MD                 | Stars                                     | 描述                                                   |
 | ------------------------------------ | ---------- | ------------------ | ----------------------------------------- | ------------------------------------------------------ |
-| [Next.js][next.js]                   | React      | :heavy_check_mark: | ![[next.js][next.js-stars]                    | React 框架                                             |
+| [Next.js][next.js]                   | React      | :heavy_check_mark: | ![next.js][next.js-stars]                    | React 框架                                             |
 | ->[nextra][nextra]                   | React      | :heavy_check_mark: | ![nextra][nextra-stars]                    | React 框架                                             |
 | [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
 | ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![docsy][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
