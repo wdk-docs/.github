@@ -1,8 +1,9 @@
 | 名字                                 | 语言/框架  | MD                 | Stars                                     | 描述                                                   |
 | ------------------------------------ | ---------- | ------------------ | ----------------------------------------- | ------------------------------------------------------ |
-| [Next.js][next.js]                   | React      | :heavy_check_mark: | ![Hugo][next.js-stars]                    | React 框架                                             |
+| [Next.js][next.js]                   | React      | :heavy_check_mark: | ![[next.js][next.js-stars]                    | React 框架                                             |
+| ->[nextra][nextra]                   | React      | :heavy_check_mark: | ![nextra][nextra-stars]                    | React 框架                                             |
 | [Hugo][hugo]                         | Go         | :heavy_check_mark: | ![Hugo][hugo-stars]                       | 世界上最快的网站建设框架。                             |
-| ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![Hugo][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
+| ->[Docsy][docsy]                     | HTML/JS    | :heavy_check_mark: | ![docsy][docsy-stars]                      | 一组用于启动开放源码内容的 Hugo 文档模板。             |
 | [Gatsby][gatsby]                     | React      | :heavy_check_mark: | ![Gatsby][gatsby-stars]                   | 最快的无头网络前端。                                   |
 | [Docusaurus][docusaurus]             | TypeScript | :heavy_check_mark: | ![Docusaurus][docusaurus-stars]           | 易于维护的开源文档网站。                               |
 | [Jekyll][jekyll]                     | Ruby       | :heavy_check_mark: | ![Publii][jekyll-stars]                   | Ruby 中支持博客的静态站点生成器                        |
@@ -32,6 +33,8 @@
 
 [next.js]: https://nextjs.org
 [next.js-stars]: https://img.shields.io/github/stars/vercel/next.js?style=social
+[nextra]: https://nextra.site
+[nextra-stars]: https://img.shields.io/github/stars/shuding/nextra?style=social
 [nuxt]: https://nuxt.com
 [nuxt-stars]: https://img.shields.io/github/stars/nuxt/framework?style=social
 [hugo]: https://gohugo.io
